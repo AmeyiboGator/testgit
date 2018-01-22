@@ -16,8 +16,6 @@
 		<p class="lblEssais" ></p>
 		<p class="lblEtat" ></p>
 		<p class="lblPosi" ></p>
-	</div>
-	</br>
-	
+	</div>	
 </body>
 </html>
